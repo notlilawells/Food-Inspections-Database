@@ -1,9 +1,6 @@
 # Food-Inspections-Database
 Creating a relational database in Python &amp; SQL on Chicago Food Inspections
 
-<img width="399" justify-content="center" alt="Screen Shot 2023-01-25 at 9 14 47 PM" src="https://user-images.githubusercontent.com/101524157/214751174-6e37dc59-5155-47eb-98d9-d9ed41db6f85.png">
-
-
 ## Overview 
 I've been working with relational databases for some time now, so I figured it was time to try creating a database myself (with an interactive Python application to match!)
 
