@@ -1,0 +1,23 @@
+Inspection_Type_ID,Inspection_Type
+1,Canvass
+2,Complaint
+3,License
+4,Canvass Re-Inspection
+5,Complaint Re-Inspection
+6,Short Form Complaint
+7,License Re-Inspection
+8,Suspected Food Poisoning
+9,Tag Removal
+10,Consultation
+11,Recent Inspection
+12,License-Task Force
+13,Suspected Food Poisoning Re-inspection
+14,Complaint-Fire
+15,Task Force Liquor 1475
+16,Short Form Fire-Complaint
+17,Non-Inspection
+18,Special Events (Festivals)
+19,Complaint-Fire Re-inspection
+20,Package Liquor 1474
+21,Pre-License Consultation
+22,No Entry
